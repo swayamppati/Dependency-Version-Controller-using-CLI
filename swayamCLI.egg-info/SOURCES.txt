@@ -1,0 +1,8 @@
+README.md
+setup.py
+swayamCLI.egg-info/PKG-INFO
+swayamCLI.egg-info/SOURCES.txt
+swayamCLI.egg-info/dependency_links.txt
+swayamCLI.egg-info/entry_points.txt
+swayamCLI.egg-info/requires.txt
+swayamCLI.egg-info/top_level.txt

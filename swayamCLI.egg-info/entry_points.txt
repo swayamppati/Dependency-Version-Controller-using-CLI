@@ -1,0 +1,6 @@
+[console_scripts]
+getAllRepos = getAllRepos:getAllRepos
+getDep = getDep:getDep
+getPubRepos = getPubRepos:getPubRepos
+getStart = getStart:getStart
+
